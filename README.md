@@ -2,7 +2,7 @@
 Data cleaning project: "Customer Personality Analysis" dataset from Kaggle. Addressed missing data, duplicates, and inconsistent formats. See `data_cleaning_project.ipynb` (code), `customer_personality_analysis.csv` (raw), `cleaned_dataset.csv` (cleaned).
 
 
-# Data Cleaning Project  
+# Task 1: Data Cleaning and Preprocessing 
 
 ## Overview  
 This repository contains the data cleaning and preprocessing steps applied to the [Dataset Name] dataset from [source, e.g., Kaggle]. The aim was to clean the data by handling missing values, duplicates, and inconsistent formats.  
